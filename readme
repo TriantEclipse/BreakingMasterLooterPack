@@ -3,11 +3,13 @@
 
 Аддон для ML:
 - https://github.com/TriantEclipse/BRP/tree/TriantEclipse-patch - основной аддон для начисления/списания дкп. Для того чтобы списывать/начислять необходима роль офицера в гильдии. Fork от основной версии
-Если вы используете git addon manager для Turtle то можете просто вставить ссылку: https://github.com/TriantEclipse/BRP.git
+Если вы используете git addon manager для Turtle то можете просто вставить ссылку ниже:
+https://github.com/TriantEclipse/BRP.git
 
 Аддон для рейдеров и ML:
 - https://github.com/TriantEclipse/BRPBidHelper - самописный аддон, который при разроле вещи открывает окошко которое парсит ваши личные сообщения на предмет ставок, сортирует по убыванию, так же пишет количество дкп и ранг того кто ставит, удобная вещь, рекомендую
-Если вы используете git addon manager для Turtle то можете просто вставить ссылку:  https://github.com/TriantEclipse/BRPBidHelper.git
+Если вы используете git addon manager для Turtle то можете просто вставить ссылку ниже: 
+https://github.com/TriantEclipse/BRPBidHelper.git
 
 
 Если же рейд по СРу то вот
