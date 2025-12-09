@@ -2,13 +2,10 @@
 Чтобы нам было попроще Egorke собрал пак аддонов, которые мы немного модифицировали, чтобы упростить нашу жизнь, поехали:
 
 - https://github.com/TriantEclipse/BRP/tree/TriantEclipse-patch - основной аддон для начисления/списания дкп. Для того чтобы списывать/начислять необходима роль офицера в гильдии. Fork от основной версии
-ссылка для git addon manager для Turtle: https://github.com/TriantEclipse/BRP.git
+Если вы используете git addon manager для Turtle то можете просто вставить ссылку: https://github.com/TriantEclipse/BRP.git
 
-- https://github.com/Eggorke/BRPBT - самописный аддон, который при разроле вещи открывает окошко которое парсит ваши личные сообщения на предмет ставок, сортирует по убыванию, так же пишет количество дкп и ранг того кто ставит, удобная вещь, рекомендую
-ссылка для git addon manager для Turtle:  https://github.com/Eggorke/BRPBT.git
-
-- https://github.com/TriantEclipse/MasterLoot - аддон который в значительной мере ускоряет сбор лута с треша, можно настроить в кого закидывать серые вещи и тд + содержит информацию о прио на лут (там есть файл lootprio.lua который периодически необходимо обновлять в зависимости от изменений в таблице) 
-ссылка для git addon manager для Turtle:  https://github.com/TriantEclipse/MasterLoot.git
+- https://github.com/TriantEclipse/BRPBidHelper - самописный аддон, который при разроле вещи открывает окошко которое парсит ваши личные сообщения на предмет ставок, сортирует по убыванию, так же пишет количество дкп и ранг того кто ставит, удобная вещь, рекомендую
+Если вы используете git addon manager для Turtle то можете просто вставить ссылку:  https://github.com/TriantEclipse/BRPBidHelper.git
 
 
 Если же рейд по СРу то вот
